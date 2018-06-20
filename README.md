@@ -1,8 +1,10 @@
 # Advanced-Security- 1 & 2
 
-Advanced Security LAB 1 -  Research on Cryptographic Applications and The Deep web
+Advanced Security LAB 1 -  
 
-Create a Calaculator in Java
+                    Research on Cryptographic Applications and The Deep web
+
+                    Create a Calaculator in Java
 
 Advanced Security LAB 2 - Decrypt and encrypt Ceasar Cipher and Vigenere Cipher
 
